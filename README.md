@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Philippa McCabe
 
 You can use the [editor on GitHub](https://github.com/phimc95/My-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
