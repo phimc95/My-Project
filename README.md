@@ -2,6 +2,10 @@
 
 This is my attempt at having a digital footprint!
 
+I am currently 3 months into my applied mathematics PhD at [Liverpool John Moores University](https://www.ljmu.ac.uk/). 
+
+My PhD is working with the [OActive project](https://www.oactive.eu/) to use statistical and machine learning tools to develop a diagnostic and predicitve model for osteoarthritis. 
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
