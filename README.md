@@ -1,6 +1,6 @@
 ## Philippa McCabe
 
-You can use the [editor on GitHub](https://github.com/phimc95/My-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my attempt at having a digital footprint!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
