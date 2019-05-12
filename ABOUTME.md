@@ -1,8 +1,7 @@
-# This is me!
+# This is me! Fun Facts
 
-## Fun Facts
 1. My name is Philippa
-2. I go to [LJMU] (https://www.ljmu.ac.uk/)
+2. I go to [LJMU](https://www.ljmu.ac.uk/)
 3. I code in R 
 4. I am learning Python
 5. I work on osteoarthritis modelling
