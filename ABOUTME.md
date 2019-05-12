@@ -1,4 +1,4 @@
-# This is me! Fun Facts
+# This is me!
 
 1. My name is Philippa
 2. I go to [LJMU](https://www.ljmu.ac.uk/)
