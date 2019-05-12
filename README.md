@@ -7,10 +7,10 @@ My PhD is working with the [OActive project](https://www.oactive.eu/) to use sta
 I work with the [Department of Applied Mathematics](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/department-of-applied-mathematics) and the [School of Sport and Exercise Science](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-science/school-of-sport-and-exercise-sciences).
 
 ### Here are some bits that might be useful:
-- [About Me](Philippa_McCabe/ABOUTME.md)
-- [CV](Philippa_McCabe/CV.md)
-- [Publications](Philippa_McCabe/PUBLICATIONS.md)
-- [Code of Varying Degrees](Philippa_McCabe/CODE.md)
+- [About Me](.../master/ABOUTME.md)
+- [CV](.../master/CV.md)
+- [Publications](.../master/PUBLICATIONS.md)
+- [Code of Varying Degrees](.../master/CODE.md)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
