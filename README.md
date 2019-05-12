@@ -8,9 +8,9 @@ I work with the [Department of Applied Mathematics](https://www.ljmu.ac.uk/about
 
 ### Here are some bits that might be useful:
 - [About Me](Philippa_McCabe/ABOUTME.md)
-- [_Fun_ Facts]
-- [Publications]
-- [Code of Varying Degrees]
+- [_Fun_ Facts](Philippa_McCabe/FACTS.md)
+- [Publications](Philippa_McCabe/PUBLICATIONS.md)
+- [Code of Varying Degrees](Philippa_McCabe/CODE.md)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
