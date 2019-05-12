@@ -8,7 +8,7 @@ I work with the [Department of Applied Mathematics](https://www.ljmu.ac.uk/about
 
 ### Here are some bits that might be useful:
 - [About Me](Philippa_McCabe/ABOUTME.md)
-- [_Fun_ Facts](Philippa_McCabe/FACTS.md)
+- [CV](Philippa_McCabe/CV.md)
 - [Publications](Philippa_McCabe/PUBLICATIONS.md)
 - [Code of Varying Degrees](Philippa_McCabe/CODE.md)
 
