@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+title: Philippa Grace McCabe
+description: Machine Learning Group - PhD Student at Liverpool John Moores University - Funded by OActive
+
+navbar-links:
+  About Me: "aboutme"
+  Stuff:
+    - Research output: ""
+    - Teaching stuff: "http://www.markdowntutorial.com/"
