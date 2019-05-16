@@ -5,8 +5,12 @@ My thesis is studying the diagnosis and predictive modelling of osteoarthritis t
 Osteoarthritis (OA) is a degenerative bone disease that affects joints as a whole. OA is one of the most common diseases affecting people in old age with the prevalence in people 65 years and older range from 12% to 30%. The disease is also the most common form of arthritis to cause pain and mobility limitations. 
 When diagnosising OA x-rays are taken. The scale to classify OA is the Kellgren-Lawrence scale grading form 0-4 depending on severity. A clinician usually analyses and classifies images for diagnosis. By using both humans and machines there is the potential for more reliable diagnoses in the future. 
 
-## Research Interests
-I am interested in machine learning approaches and how interpretability can be maximised, allowing for results that can be easily understand and used with confidence. My previous work has looked at multitask learning and how it can be used to aid in drug design and discovery by making better use of QSARs. I will be giving a talk at [IJCNN](https://www.ijcnn.org/) about this.
+## Research 
+### Interests
+I am interested in machine learning approaches and how interpretability can be maximised, allowing for results that can be easily understand and used with confidence. My previous work has looked at multitask learning and how it can be used to aid in drug design and discovery by making better use of QSARs. 
+
+### Outputs
+I am currently working on mutlitask learning for drug design and discovery. I will be giving a talk at [IJCNN](https://www.ijcnn.org/) about this.
 
 ## Biography
 I attained my BSc in Mathematics in 2017 and my MSc in Data Science in 2018 at [Liverpool John Moores University (LJMU)](https://www.ljmu.ac.uk/). 
