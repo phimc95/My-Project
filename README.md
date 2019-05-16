@@ -12,4 +12,5 @@ I work with the [Department of Applied Mathematics](https://www.ljmu.ac.uk/about
 - [Publications](https://github.com/phimc95/Philippa_McCabe/blob/master/PUBLICATIONS.md)
 - [Code of Varying Degrees](https://github.com/phimc95/Philippa_McCabe/blob/master/CODE.md)
 
-
+![OActive Logo](https://www.oactive.eu/)
+![JMU logo](http://lcr4.uk/wp-content/uploads/2016/11/JMU.png)
