@@ -9,21 +9,24 @@ When diagnosising OA x-rays are taken. The scale to classify OA is the Kellgren-
 I am interested in machine learning approaches and how interpretability can be maximised, allowing for results that can be easily understand and used with confidence. My previous work has looked at multitask learning and how it can be used to aid in drug design and discovery by making better use of QSARs. I will be giving a talk at [IJCNN](https://www.ijcnn.org/) about this.
 
 ## Biography
-I am currently 6 months into my applied mathematics PhD at [Liverpool John Moores University](https://www.ljmu.ac.uk/). 
+I attained my BSc in Mathematics in 2017 and my MSc in Data Science in 2018 at [Liverpool John Moores University (LJMU)](https://www.ljmu.ac.uk/). 
+
+I am currently 6 months into my applied mathematics PhD at LJMU.
 
 My PhD is working with the [OActive project](https://www.oactive.eu/) to use statistical and machine learning tools to develop a diagnostic and predicitve model for osteoarthritis. 
 
-I work with the [Department of Applied Mathematics](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/department-of-applied-mathematics) and the [School of Sport and Exercise Science](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-science/school-of-sport-and-exercise-sciences).
-
+I work with the [Department of Applied Mathematics](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/department-of-applied-mathematics), the Machine Learning Group at LJMU and the [School of Sport and Exercise Science](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-science/school-of-sport-and-exercise-sciences). My supervisors are [Prof Paulo Lisboa](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/department-of-applied-mathematics/paulo-lisboa), [Prof Bill Baltzopoulos](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-science/sport-and-exercise-sciences/bill-baltzopoulos) and [Dr Ivan Olier-Caparasso](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/department-of-applied-mathematics/ivan-olier-caparroso).
 
 ## Skills
-
+I am proficient in using the R programming language, which I have evidenced in the use of machine learning methods for various research projects. I have used MATLAB and currently in the process of learning Python. 
 
 ## Previous Degrees
+2018 - Data Science MSc, Liverpool John Moores University. Distinction.
 
+2017 - Mathematics BSc (Hons), Liverpool John Moores University. 1st Class.
 
 ## Outreach Activities
-
+I have assisted in lab tutorials in the Department of Applied Mathematics at LJMU, specifically helping students use and better understand R/RStudio. From the feedback I have received, the students saw this as a positive experience and felt it did help them.
 
 ## Funding
 I am funded by the OActive project, funding scheme: H2020-SC1-PM-17-2017, with contributions by Liverpool John Moores University.
