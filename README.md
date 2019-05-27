@@ -7,7 +7,7 @@ When diagnosising OA x-rays are taken. The scale to classify OA is the Kellgren-
 
 ## Research 
 ### Interests
-I am interested in machine learning approaches and how interpretability can be maximised, allowing for results that can be easily understand and used with confidence. My previous work has looked at multitask learning and how it can be used to aid in drug design and discovery by making better use of QSARs. 
+I am interested in machine learning approaches and how interpretability can be maximised, allowing for results that can be easily understood and used with confidence. My previous work has looked at multitask learning and how it can be used to aid in drug design and discovery by making better use of QSARs. 
 
 ### Outputs
 I am currently working on mutlitask learning for drug design and discovery. I will be giving a talk at [IJCNN](https://www.ijcnn.org/) about this.
