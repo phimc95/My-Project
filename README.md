@@ -10,7 +10,29 @@ When diagnosising OA x-rays are taken. The scale to classify OA is the Kellgren-
 I am interested in machine learning approaches and how interpretability can be maximised, allowing for results that can be easily understood and used with confidence. My previous work has looked at multitask learning and how it can be used to aid in drug design and discovery by making better use of QSARs. 
 
 ### Outputs
-I am currently working on mutlitask learning for drug design and discovery. I will be giving a talk at [IJCNN](https://www.ijcnn.org/) about this.
+I have been  working on mutlitask learning for drug design and discovery. I gave a talk at [IJCNN](https://www.ijcnn.org/) about this.
+
+My thesis is studying the diagnosis and predictive modelling of osteoarthritis through statistical and machine learning methods. Osteoarthritis (OA) is a degenerative bone disease that affects joints as a whole. I will be giving a talk at [IDEAL](http://www.confercare.manchester.ac.uk/events/ideal2019/) on this research.
+
+## Publications
+### 2019
+P.G. McCabe, I. Olier, S. Ortega-Martorell, I. Jarman, V. Baltzopoulos, P. Lisboa. “Comparative Analysis for Computer-Based Decision Support: Case Study of Knee Osteoarthritis”. 20th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL). Manchester, UK. Nov 2019. 
+
+P. G. McCabe, S. Ortega-Martorell, I. Olier. “Benchmarking multi-task learning in predictive models for drug discovery”. International Joint Conference on Neural Networks (IJCNN). Budapest, Hungary. July 2019.
+
+## Presentations
+### 2019
+IDEAL 2019 Conference, November 2019. Comparative Analysis for Computer-Based Decision Support: Case Study of Knee Osteoarthritis. http://www.confercare.manchester.ac.uk/events/ideal2019/
+
+Seminar of the Department of Applied Mathematics, October 2019. Machine Learning and Healthcare: A quick-ish look at the bits and bobs I fill my time with. http://www.cms.livjm.ac.uk/APMSeminar/index.php/seminar-2019-2020-semester-1/16-10-2019-philippa-mccabe/ 
+
+IJCNN 2019 conference, Budapest, Hungary. July 2019. Oral presentation. Benchmarking multi-task learning in predictive models for drug discovery. https://www.ijcnn.org/ 
+
+Joint Research Cafe University of Liverpool and LJMU, Liverpool. July 2019. Oral presentation.
+
+LJMU Faculty Research Week, May 2019. Poster presentation. Diagnostic and Predictive Modelling in Osteoarthritis Using Machine Learning. 
+
+LJMU Doctoral Academy Conference, May 2019. Poster presentation. Diagnostic and Predictive Modelling in Osteoarthritis Using Machine Learning. 
 
 ## Biography
 I attained my BSc in Mathematics in 2017 and my MSc in Data Science in 2018 at [Liverpool John Moores University (LJMU)](https://www.ljmu.ac.uk/). 
@@ -35,5 +57,5 @@ I have assisted in lab tutorials in the Department of Applied Mathematics at LJM
 ## Funding
 I am funded by the OActive project, funding scheme: H2020-SC1-PM-17-2017, with contributions by Liverpool John Moores University.
 
-![JMU logo](http://lcr4.uk/wp-content/uploads/2016/11/JMU.png)![OActive Logo](https://pbs.twimg.com/profile_images/940216056517296128/-iKRG-vG_400x400.jpg)
+![JMU logo](https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwj7mrKFs8nlAhVlx4UKHYxuDtkQjRx6BAgBEAQ&url=https%3A%2F%2Fmy.ljmu.ac.uk%2F&psig=AOvVaw2bznxsGkZzNJ43XqAR55QW&ust=1572710959220776)![OActive Logo](https://pbs.twimg.com/profile_images/940216056517296128/-iKRG-vG_400x400.jpg)
 
