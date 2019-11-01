@@ -22,11 +22,11 @@ P. G. McCabe, S. Ortega-Martorell, I. Olier. “Benchmarking multi-task learning
 
 ## Presentations
 ### 2019
-IDEAL 2019 Conference, November 2019. Comparative Analysis for Computer-Based Decision Support: Case Study of Knee Osteoarthritis. http://www.confercare.manchester.ac.uk/events/ideal2019/
+[IDEAL] (http://www.confercare.manchester.ac.uk/events/ideal2019/)2019 Conference, November 2019. Comparative Analysis for Computer-Based Decision Support: Case Study of Knee Osteoarthritis. 
 
-Seminar of the Department of Applied Mathematics, October 2019. Machine Learning and Healthcare: A quick-ish look at the bits and bobs I fill my time with. http://www.cms.livjm.ac.uk/APMSeminar/index.php/seminar-2019-2020-semester-1/16-10-2019-philippa-mccabe/ 
+[Seminar of the Department of Applied Mathematics] (http://www.cms.livjm.ac.uk/APMSeminar/index.php/seminar-2019-2020-semester-1/16-10-2019-philippa-mccabe/), October 2019. Machine Learning and Healthcare: A quick-ish look at the bits and bobs I fill my time with.  
 
-IJCNN 2019 conference, Budapest, Hungary. July 2019. Oral presentation. Benchmarking multi-task learning in predictive models for drug discovery. https://www.ijcnn.org/ 
+[IJCNN] (https://www.ijcnn.org/)  2019 conference, Budapest, Hungary. July 2019. Oral presentation. Benchmarking multi-task learning in predictive models for drug discovery.
 
 Joint Research Cafe University of Liverpool and LJMU, Liverpool. July 2019. Oral presentation.
 
