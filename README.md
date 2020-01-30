@@ -57,5 +57,5 @@ I have assisted in lab tutorials in the Department of Applied Mathematics at LJM
 ## Funding
 I am funded by the OActive project, funding scheme: H2020-SC1-PM-17-2017, with contributions by Liverpool John Moores University.
 
-![JMU logo](https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwj7mrKFs8nlAhVlx4UKHYxuDtkQjRx6BAgBEAQ&url=https%3A%2F%2Fmy.ljmu.ac.uk%2F&psig=AOvVaw2bznxsGkZzNJ43XqAR55QW&ust=1572710959220776)![OActive Logo](https://pbs.twimg.com/profile_images/940216056517296128/-iKRG-vG_400x400.jpg)
+![JMU logo](https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiN-9b73avnAhUIXRoKHQfyCd0QjRx6BAgBEAQ&url=https%3A%2F%2Fmy.ljmu.ac.uk%2F&psig=AOvVaw2cahoHWCPp5xrza5IyuWWl&ust=1580487787375834)![OActive Logo](https://pbs.twimg.com/profile_images/940216056517296128/-iKRG-vG_400x400.jpg)
 
