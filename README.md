@@ -21,6 +21,9 @@ P.G. McCabe, I. Olier, S. Ortega-Martorell, I. Jarman, V. Baltzopoulos, P. Lisbo
 P. G. McCabe, S. Ortega-Martorell, I. Olier. “Benchmarking multi-task learning in predictive models for drug discovery”. International Joint Conference on Neural Networks (IJCNN). Budapest, Hungary. July 2019.
 
 ## Presentations
+### 2020
+Open Research Week Joint Research Cafe UoL, Edge Hill and LJMU. OA: Open Access and Osteoarthritis. February 2021. Oral Presentation
+
 ### 2019
 [IDEAL](http://www.confercare.manchester.ac.uk/events/ideal2019/) 2019 Conference, November 2019. Comparative Analysis for Computer-Based Decision Support: Case Study of Knee Osteoarthritis. 
 
@@ -37,7 +40,7 @@ LJMU Doctoral Academy Conference, May 2019. Poster presentation. Diagnostic and 
 ## Biography
 I attained my BSc in Mathematics in 2017 and my MSc in Data Science in 2018 at [Liverpool John Moores University (LJMU)](https://www.ljmu.ac.uk/). 
 
-I am currently 6 months into my applied mathematics PhD at LJMU.
+I am currently in the final year of my applied mathematics PhD at LJMU.
 
 My PhD is working with the [OActive project](https://www.oactive.eu/) to use statistical and machine learning tools to develop a diagnostic and predicitve model for osteoarthritis. 
 
@@ -53,6 +56,7 @@ I am proficient in using the R programming language, which I have evidenced in t
 
 ## Outreach Activities
 I have assisted in lab tutorials in the Department of Applied Mathematics at LJMU, specifically helping students use and better understand R/RStudio. From the feedback I have received, the students saw this as a positive experience and felt it did help them.
+Since September 2020 I have been employed as a teaching support officer, assisting with Engineering Mathematics at LJMU.
 
 ## Funding
 I am funded by the OActive project, funding scheme: H2020-SC1-PM-17-2017, with contributions by Liverpool John Moores University.
