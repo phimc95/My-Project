@@ -1,5 +1,7 @@
 # Philippa Grace McCabe - PhD Researcher 
 
+[ORCiD Available here](https://orcid.org/0000-0003-0464-4922)
+
 ## Research Project
 My thesis is studying the diagnosis and predictive modelling of osteoarthritis through statistical and machine learning methods. 
 Osteoarthritis (OA) is a degenerative bone disease that affects joints as a whole. OA is one of the most common diseases affecting people in old age with the prevalence in people 65 years and older range from 12% to 30%. The disease is also the most common form of arthritis to cause pain and mobility limitations. 
@@ -16,9 +18,9 @@ My thesis is studying the diagnosis and predictive modelling of osteoarthritis t
 
 ## Publications
 ### 2019
-P.G. McCabe, I. Olier, S. Ortega-Martorell, I. Jarman, V. Baltzopoulos, P. Lisboa. “Comparative Analysis for Computer-Based Decision Support: Case Study of Knee Osteoarthritis”. 20th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL). Manchester, UK. Nov 2019. 
+P.G. McCabe, I. Olier, S. Ortega-Martorell, I. Jarman, V. Baltzopoulos, P. Lisboa. “Comparative Analysis for Computer-Based Decision Support: Case Study of Knee Osteoarthritis”. 20th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL). Manchester, UK. Nov 2019. [Paper Here](https://link.springer.com/chapter/10.1007%2F978-3-030-33617-2_13)
 
-P. G. McCabe, S. Ortega-Martorell, I. Olier. “Benchmarking multi-task learning in predictive models for drug discovery”. International Joint Conference on Neural Networks (IJCNN). Budapest, Hungary. July 2019.
+P. G. McCabe, S. Ortega-Martorell, I. Olier. “Benchmarking multi-task learning in predictive models for drug discovery”. International Joint Conference on Neural Networks (IJCNN). Budapest, Hungary. July 2019. [Paper Here](https://ieeexplore.ieee.org/document/8852074)
 
 ## Presentations
 ### 2020
