@@ -1,4 +1,4 @@
-# Philippa Grace McCabe - PhD Student
+# Philippa Grace McCabe - PhD Researcher 
 
 ## Research Project
 My thesis is studying the diagnosis and predictive modelling of osteoarthritis through statistical and machine learning methods. 
